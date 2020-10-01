@@ -5,6 +5,7 @@ using namespace std;
 void print(int arr[], int);
 void copy(int source[], int destination[], int);
 void printPermutations(int arr[], int i, int, int &);
+void someFunFunc();
 
 int main()
 {
